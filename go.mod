@@ -131,12 +131,12 @@ require (
 	github.com/yuin/gopher-lua v0.0.0-20180630135845-46796da1b0b4 // indirect
 	go.starlark.net v0.0.0-20210406145628-7a1108eaa012
 	go.uber.org/multierr v1.6.0 // indirect
-	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11
+	golang.org/x/net v0.23.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
-	golang.org/x/sys v0.0.0-20210316164454-77fc1eacc6aa
-	golang.org/x/text v0.3.4
-	golang.org/x/tools v0.1.0
+	golang.org/x/sync v0.1.0
+	golang.org/x/sys v0.18.0
+	golang.org/x/text v0.14.0
+	golang.org/x/tools v0.6.0
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200205215550-e35592f146e4
 	google.golang.org/api v0.29.0
 	google.golang.org/genproto v0.0.0-20200815001618-f69a88009b70
